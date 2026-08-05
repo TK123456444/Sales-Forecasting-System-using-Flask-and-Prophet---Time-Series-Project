@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# Learn everything about Time Series Analysis
-
-🔴 Follow this video to learn:
-
-[![Alt text](https://raw.githubusercontent.com/pik1989/TimeSeriesAnalysis/main/FlaskApi/static/img/TIme%20Series%20Analysis.JPG)](https://www.youtube.com/watch?v=w54b0Z9HvUA)
-
-=======
 # 🚀 Sales Forecasting System Using Flask & Prophet | Time Series Forecasting
 
 ## 📌 Project Overview
@@ -97,9 +89,8 @@ The complete pipeline includes:
 ### Deployment
 
 * Flask
-* Docker
 * GitHub
-* Render / AWS
+* Render 
 
 ---
 
@@ -160,4 +151,3 @@ The forecasting model predicts future sales with high accuracy by learning histo
 Sales forecasting is one of the most valuable applications of Artificial Intelligence and Time Series Analysis across retail, e-commerce, manufacturing, finance, and supply chain industries. This project demonstrates how historical business data can be transformed into actionable insights using advanced forecasting techniques.
 
 By combining **Facebook Prophet**, **Python**, and **Flask**, this repository showcases practical expertise in predictive analytics, business intelligence, deployment, and production-ready software development. It serves as an excellent portfolio project for **Data Scientist, Machine Learning Engineer, Data Analyst, Business Intelligence Analyst, AI Engineer, and Time Series Forecasting** roles.
->>>>>>> 152ba0367127bbf32d9d75a2af1d7353c1a83985
