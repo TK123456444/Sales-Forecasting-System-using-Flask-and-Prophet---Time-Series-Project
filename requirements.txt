@@ -1,0 +1,9 @@
+Flask==3.0.3
+gunicorn==23.0.0
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+scikit-learn==1.5.1
+prophet==1.1.5
+cmdstanpy==1.2.4
+holidays==0.57
