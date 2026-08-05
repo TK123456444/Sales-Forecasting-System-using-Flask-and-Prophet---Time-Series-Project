@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+uploads/
+*.png
+*.jpg
+*.jpeg
+.ipynb_checkpoints/
